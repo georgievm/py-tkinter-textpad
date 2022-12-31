@@ -42,15 +42,14 @@
 ![menu options](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/menu_options.png)
 
 ![color settings](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/adjust_colors.png)
-
 ![font settings](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/adjust_font.png)
 
 ![color picker](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/color_picker.png)
 
-![context menu](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/context_menu.png)
+![context menu](https://github.com/georgievm/py-tkinter-textpad/blob/75d21d0f1c9b4fadb3b6b53c08861ac4828d64b8/readme-media/context_menu.png)
 
-![save changes1](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/save_changes.png)
 ![save changes2](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/save_changes_opened_file.png)
+![save changes1](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/save_changes.png)
 
 ![text wrap word](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/wrap_word.png)
 ![tetx wrap none](https://github.com/georgievm/py-tkinter-textpad/blob/dd674024deac9461d28f7058359b9a72a33d060a/readme-media/wrap_none.png)
